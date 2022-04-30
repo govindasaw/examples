@@ -9,7 +9,7 @@ import java.util.HashSet;
  * @author Govin
  *
  */
-public class Test12 {
+public class Test012 {
 
 	/**
 	 * @param args
