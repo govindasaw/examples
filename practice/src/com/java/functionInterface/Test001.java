@@ -3,8 +3,6 @@
  */
 package com.java.functionInterface;
 
-import java.util.function.Consumer;
-
 /**
  * @author Govin
  *
